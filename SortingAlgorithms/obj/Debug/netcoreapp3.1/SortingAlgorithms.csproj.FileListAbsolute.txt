@@ -1,0 +1,12 @@
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp3.1/SortingAlgorithms.deps.json
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp3.1/SortingAlgorithms.runtimeconfig.json
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp3.1/SortingAlgorithms.runtimeconfig.dev.json
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp3.1/SortingAlgorithms.dll
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp3.1/SortingAlgorithms.pdb
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.csprojAssemblyReference.cache
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.AssemblyInfoInputs.cache
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.AssemblyInfo.cs
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.dll
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.pdb
+/Users/edda/Projects/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.genruntimeconfig.cache
