@@ -3,16 +3,17 @@ namespace SortingAlgorithms
 {
     public class BubbleSort
     {
-        int[] Arr { get; set; }
-        public BubbleSort(int[] unsortedArr)
+        static int[] Arr { get; set; }
+        public BubbleSort()
         {
-            Arr = unsortedArr;
+           
         }
 
 
-        public int[] Sort()
+        public static int[] Sort(int[] unsortedArr)
         {
-            for(int i = 0; i < Arr.Length-1; i++)
+            Arr = unsortedArr;
+            for (int i = 0; i < Arr.Length-1; i++)
             {
                 for(int j = i + 1; j < Arr.Length; j++)
                 {
@@ -25,21 +26,13 @@ namespace SortingAlgorithms
             return Arr;
         }
 
-        public void Swap(int firstIndex, int secondIndex)
+        public static void Swap(int firstIndex, int secondIndex)
         {
             int temp = Arr[firstIndex];
             Arr[firstIndex] = Arr[secondIndex];
             Arr[secondIndex] = temp;
         }
 
-        public void PrintArray()
-        {
-            Console.Write("{ ");
-            for(int i = 0; i < Arr.Length - 1; i++)
-            {
-                Console.Write(Arr[i] + ", ");
-            }
-            Console.WriteLine(Arr.Length - 1+" }");
-        }
+        
     }
 }
